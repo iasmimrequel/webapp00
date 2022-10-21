@@ -7,7 +7,7 @@ import streamlit as st
 st.title("emef/eja edson luis lima souto É NOTA 1000!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Abacaxi em tudo!")
+st.header("luanna linda e inteligente!")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Bem vindos!")
