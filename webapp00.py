@@ -7,10 +7,10 @@ import streamlit as st
 st.title("emef/eja edson luis lima souto É NOTA 1000!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("luanna e iasmim são lindas e inteligentes!")
+st.header("mundo das guloseimas!")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Bem vindos!")
+st.subheader("welcome!")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
